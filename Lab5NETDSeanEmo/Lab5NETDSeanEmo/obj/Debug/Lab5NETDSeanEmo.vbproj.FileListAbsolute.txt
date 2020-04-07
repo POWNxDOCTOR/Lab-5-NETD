@@ -1,0 +1,12 @@
+C:\Users\Gamer\source\repos\Lab5NETDSeanEmo\Lab5NETDSeanEmo\bin\Debug\Lab5NETDSeanEmo.exe.config
+C:\Users\Gamer\source\repos\Lab5NETDSeanEmo\Lab5NETDSeanEmo\bin\Debug\Lab5NETDSeanEmo.exe
+C:\Users\Gamer\source\repos\Lab5NETDSeanEmo\Lab5NETDSeanEmo\bin\Debug\Lab5NETDSeanEmo.pdb
+C:\Users\Gamer\source\repos\Lab5NETDSeanEmo\Lab5NETDSeanEmo\bin\Debug\Lab5NETDSeanEmo.xml
+C:\Users\Gamer\source\repos\Lab5NETDSeanEmo\Lab5NETDSeanEmo\obj\Debug\Lab5NETDSeanEmo.vbprojAssemblyReference.cache
+C:\Users\Gamer\source\repos\Lab5NETDSeanEmo\Lab5NETDSeanEmo\obj\Debug\Lab5NETDSeanEmo.frmTextEditor.resources
+C:\Users\Gamer\source\repos\Lab5NETDSeanEmo\Lab5NETDSeanEmo\obj\Debug\Lab5NETDSeanEmo.Resources.resources
+C:\Users\Gamer\source\repos\Lab5NETDSeanEmo\Lab5NETDSeanEmo\obj\Debug\Lab5NETDSeanEmo.vbproj.GenerateResource.cache
+C:\Users\Gamer\source\repos\Lab5NETDSeanEmo\Lab5NETDSeanEmo\obj\Debug\Lab5NETDSeanEmo.vbproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\Lab5NETDSeanEmo\Lab5NETDSeanEmo\obj\Debug\Lab5NETDSeanEmo.exe
+C:\Users\Gamer\source\repos\Lab5NETDSeanEmo\Lab5NETDSeanEmo\obj\Debug\Lab5NETDSeanEmo.xml
+C:\Users\Gamer\source\repos\Lab5NETDSeanEmo\Lab5NETDSeanEmo\obj\Debug\Lab5NETDSeanEmo.pdb
